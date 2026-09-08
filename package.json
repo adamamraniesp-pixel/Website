@@ -3,7 +3,6 @@
   "private": true,
   "sideEffects": false,
   "type": "module",
-  "scripts": {
     "dev": "vite dev",
     "node .output/server/index.mjs",
     "build": "vite build",
